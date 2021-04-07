@@ -1,6 +1,6 @@
 package practice;
 
-public class CountTheChardsInString {
+public class CountTheCharsInString {
 
 	public static void main(String[] args) {
 
